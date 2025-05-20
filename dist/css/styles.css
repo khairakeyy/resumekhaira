@@ -305,7 +305,8 @@ figure {
 
 img,
 svg {
-  vertical-align: middle;
+  text-align: center;
+  vertical-align:;
 }
 
 table {
